@@ -1,16 +1,21 @@
 body, html {
   height: 100%;
-  color: #c0d8e2;
-  font-family: 'Raleway', sans-serif;
+  color: #e0d1c9;
+  
   margin: 0;
   text-align: center;
-  font-weight: 800;
+  font-weight: 900;
   background-image: url(bakra.gif);
   background-repeat: no-repeat;
   background-position: center;
   background-color: rgb(192, 166, 166);
   background-size: cover;
+    font-family: 'Segment7Standard';
+    font-weight: normal;
+    font-style: italic;
+
 }
+
 
 tr, td {
   padding-left: 15px;
@@ -24,5 +29,7 @@ tr, td {
   display: grid;
 }
 .text{
-  font-size: 3vh;
+  font-size: 7vh;
+  font-family: monospace;
+  font-weight: 900 !important;
 }
